@@ -78,3 +78,7 @@ df_train.csv: 6700 rows x 22 columns
 df_test.csv : 3300 rows x 21 columns
 - Customer column is the unique id of each customer
 - From the features 1-20, we could build ml model to classify and predict the column Y
+
+# Scripts
+- mlmodel.ipynb : Has list of machine learning model and output
+- deploytolambda.ipynb : how the same model can used in AWS 
