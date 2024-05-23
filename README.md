@@ -66,7 +66,7 @@ dtypes: float64(20)
 df_train.csv: 6700 rows x 22 columns
 
 - Customer column is the unique id of each customer
-- From the features 1-20, the customer are classfied into 3 classes which reflects in cloumn 21 (Y)
+- From the features 1-20, the customer are classfied into 3 classes which reflects in cloumn 22 (Y)
 
     Cluster 2: 681 values
     Cluster 0: 1346 values
