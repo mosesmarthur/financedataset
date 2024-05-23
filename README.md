@@ -81,4 +81,4 @@ df_test.csv : 3300 rows x 21 columns
 
 # Scripts
 - mlmodel.ipynb : Has list of machine learning model and output
-- deploytolambda.ipynb : how the same model can used in AWS 
+- deploytolambda.ipy : how the same model can used in AWS 
